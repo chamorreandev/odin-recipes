@@ -1,0 +1,18 @@
+/* styles.css */
+& {
+  color: black;
+  background-color:yellowgreen;
+}
+
+
+.siopao {font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Times New Roman";
+}
+
+.bulgogi {
+  font-family: sans-serif;
+}
+
+.chamorro {
+  font-family: monospace;
+}
